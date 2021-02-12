@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/javaswingguitest.iml" filepath="$PROJECT_DIR$/javaswingguitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaswinggui.iml" filepath="$PROJECT_DIR$/javaswinggui.iml" />
     </modules>
   </component>
 </project>
