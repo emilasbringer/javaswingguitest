@@ -31,6 +31,7 @@ public class guitest {
     private JButton redigeraButton;
     private JButton visaButton;
     private JButton hjälpButton;
+    private JButton button1;
 
     private JMenuBar menuBar;
     private JMenu menu, submenu;
